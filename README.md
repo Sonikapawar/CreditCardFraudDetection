@@ -1,8 +1,9 @@
 # Credit-Card-Fraud-Detection
-Fraud Detection model based on anonymized credit card transactions
 
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+## Problem Statement
 
+The Credit Card Fraud Detection Problem includes modeling past credit card transactions with the knowledge of the ones that turned out to be fraud. This model is then used to identify whether a new transaction is fraudulent or not. Our aim here is to detect 100% of the fraudulent transactions while minimizing the incorrect fraud classifications.
+Fraud Detection model based on anonymized credit card transaction
 <img src="https://github.com/sagnikghoshcr7/images/blob/master/Credit%20Card%20Fraud%20Detection.jpg" width="400" height="250">
 
 ## Available data
