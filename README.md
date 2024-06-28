@@ -16,7 +16,7 @@ This dataset presents transactions that occurred in two days, where we have 492 
 ```
 git clone https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection.git 
 ```
-2. [download the dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
+2. [download the dataset](https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
 3. install required python packages if previously not installed
 
