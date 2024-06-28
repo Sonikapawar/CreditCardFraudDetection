@@ -25,6 +25,7 @@ Supervised learning as the name indicates a presence of supervisor as teacher. B
 Supervised learning classified into two categories of algorithms:
 
 Classification: A classification problem is when the output variable is a category, such as “Pass” or “Fail”.
+
 Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
 In our case, I have used Logistic Regression Algorithm.
 
