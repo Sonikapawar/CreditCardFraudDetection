@@ -34,7 +34,7 @@ In our case, I have used Logistic Regression Algorithm.
 ```
 git clone https://github.com/Sonikapawar/CreditCardFraudDetection.git 
 ```
-2. [download the dataset](https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/creditcard.csv) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
+2. [download the dataset](https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/creditcard.csv) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
 3. install required python packages if previously not installed
 
